@@ -9,10 +9,6 @@ Choose an algorithm by pressing 'i' (for insertion sort), 'm'
 set of bars or to stop the algorithm in between, and then click
 on the visualize button to visualize algorithms.
 
-
-
-
-
 ## Algorithms Implemented 
 
 The application supports the following algorithms.
@@ -29,4 +25,15 @@ The application supports the following algorithms.
 - **Quick Sort** - Quick sort also uses divide and conquer strategy
         .It picks an element as a pivot and partitions the given 
         array around the picked pivot.
+        
+        
+## Screenshots
+
+<img src="https://user-images.githubusercontent.com/108290920/185646038-3f35bd98-184a-466c-971f-cb00b8a7d785.png" width="500" height="500" />
+
+<img src="https://user-images.githubusercontent.com/108290920/185642701-de396361-d41c-4042-a621-ed4c3d3dd047.jpeg" width="500" height="500" />
+
+<img src="https://user-images.githubusercontent.com/108290920/185643074-338d4880-7d40-4df7-8af2-4b120a4d119a.jpeg" width="500" height="500" />
+
+<img src="https://user-images.githubusercontent.com/108290920/185643126-c1ab4cfe-3c80-465e-916e-46c34a025544.jpeg" width="500" height="500" />
 
